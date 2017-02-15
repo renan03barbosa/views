@@ -12,7 +12,7 @@
     <div class="container">
 
       <div class="page-header">
-        <h1>Cabeçalho</h1>
+        <h1>Cursos</h1>
         <p>Para exibir o conteúdo, é necessário definir o conteúdo dentro do @@section('content') e @@endsection </p>
       </div>
 
